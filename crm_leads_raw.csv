@@ -1,0 +1,1001 @@
+lead_id,submission_date,email,phone,source,status,value
+1,2024-03-10,user1@example.com,+79376660984,Referral,Unqualified,0.0
+2,2024-01-21,user2@example.com,+79123185482,Organic Search,Qualified,4544.35
+3,2024-01-03,user3@example.com,+79967218811,Google Ads,Qualified,6767.61
+4,2024-03-20,user4@example.com,+79244967131,Google Ads,New,0.0
+5,2024-03-10,user5@example.com,+79916828834,Facebook Ads,Contacted,0.0
+6,2024-07-02,user6@example.com,+79758115356,Referral,New,0.0
+7,2024-04-14,user7@example.com,+79134540062,Facebook Ads,New,0.0
+8,2024-02-14,user8@example.com,+79482830320,Organic Search,Qualified,38979.56
+9,2024-03-22,user9@example.com,+79196452382,Google Ads,Unqualified,0.0
+10,2024-01-06,user10@example.com,+79941690348,Organic Search,Qualified,19952.05
+11,2024-07-09,user11@example.com,+79736898863,Direct,Qualified,33498.73
+12,2024-05-06,user12@example.com,+79477252228,Organic Search,Contacted,0.0
+13,2024-02-09,user13@example.com,+79636837284,Google Ads,Contacted,0.0
+14,2024-07-01,user14@example.com,+79415448494,Direct,Unqualified,0.0
+15,2024-02-23,user15@example.com,+79997049385,Referral,Unqualified,0.0
+16,2024-04-07,user16@example.com,+79695256559,Facebook Ads,Unqualified,0.0
+17,2024-01-23,user17@example.com,+79166415739,Direct,Unqualified,0.0
+18,2024-05-11,user18@example.com,+79770286474,Direct,New,0.0
+19,2024-05-19,user19@example.com,+79441712785,Direct,Qualified,15741.42
+20,2024-02-16,user20@example.com,+79153431292,Google Ads,Qualified,20660.84
+21,2024-01-27,user21@example.com,+79764954794,Google Ads,Qualified,14639.49
+22,2024-04-22,user22@example.com,+79390671267,Facebook Ads,Qualified,48608.06
+23,2024-06-14,user23@example.com,+79630200830,Direct,Contacted,0.0
+24,2024-01-08,user24@example.com,+79741674864,Facebook Ads,New,0.0
+25,2024-03-08,user25@example.com,+79287747038,Referral,New,0.0
+26,2024-06-05,user26@example.com,+79198375819,Facebook Ads,New,0.0
+27,2024-01-17,user27@example.com,+79953400939,Facebook Ads,Unqualified,0.0
+28,2024-06-03,user28@example.com,+79814021423,Facebook Ads,New,0.0
+29,2024-06-27,user29@example.com,+79797579911,Referral,Unqualified,0.0
+30,2024-03-12,user30@example.com,+79504989253,Referral,Unqualified,0.0
+31,2024-02-11,user31@example.com,+79177565560,Direct,New,0.0
+32,2024-03-23,user32@example.com,+79351312826,Direct,Unqualified,0.0
+33,2024-03-23,user33@example.com,+79717100481,Organic Search,Unqualified,0.0
+34,2024-02-25,user34@example.com,+79831393123,Referral,New,0.0
+35,2024-04-15,user35@example.com,+79787613467,Direct,New,0.0
+36,2024-04-29,user36@example.com,+79350146208,Direct,New,0.0
+37,2024-05-27,user37@example.com,+79166423418,Facebook Ads,Contacted,0.0
+38,2024-01-13,user38@example.com,+79712212655,Google Ads,Qualified,32974.08
+39,2024-03-21,user39@example.com,+79737471709,Referral,Unqualified,0.0
+40,2024-01-14,user40@example.com,+79898769251,Referral,Unqualified,0.0
+41,2024-04-06,user41@example.com,+79513672428,Direct,New,0.0
+42,2024-03-03,user42@example.com,+79189427994,Referral,New,0.0
+43,2024-04-02,user43@example.com,+79999212801,Organic Search,New,0.0
+44,2024-05-21,user44@example.com,+79452000244,Facebook Ads,Unqualified,0.0
+45,2024-02-26,user45@example.com,+79452253600,Google Ads,Unqualified,0.0
+46,2024-07-09,user46@example.com,+79735041532,Facebook Ads,New,0.0
+47,2024-06-06,user47@example.com,+79808671383,Referral,New,0.0
+48,2024-05-17,user48@example.com,+79188412599,Facebook Ads,Contacted,0.0
+49,2024-07-04,user49@example.com,+79802561105,Google Ads,Contacted,0.0
+50,2024-03-20,user50@example.com,+79769612713,Organic Search,Contacted,0.0
+51,2024-05-24,user51@example.com,+79718859631,Organic Search,Unqualified,0.0
+52,2024-07-17,user52@example.com,+79342043796,Organic Search,Unqualified,0.0
+53,2024-01-05,user53@example.com,+79203736018,Facebook Ads,New,0.0
+54,2024-05-17,user54@example.com,+79152423992,Google Ads,Unqualified,0.0
+55,2024-06-06,user55@example.com,+79454449634,Referral,Qualified,22624.8
+56,2024-06-09,user56@example.com,+79391550192,Direct,Qualified,14343.62
+57,2024-01-04,user57@example.com,+79235121569,Referral,Qualified,24706.85
+58,2024-03-13,user58@example.com,+79942709674,Facebook Ads,New,0.0
+59,2024-02-13,user59@example.com,+79669133540,Direct,Unqualified,0.0
+60,2024-07-15,user60@example.com,+79186805670,Referral,New,0.0
+61,2024-05-27,user61@example.com,+79473503967,Direct,Unqualified,0.0
+62,2024-02-19,user62@example.com,+79251485483,Direct,Qualified,21198.75
+63,2024-07-12,user63@example.com,+79780773611,Direct,Unqualified,0.0
+64,2024-02-09,user64@example.com,+79523620612,Referral,Contacted,0.0
+65,2024-02-15,user65@example.com,+79480183344,Organic Search,New,0.0
+66,2024-01-10,user66@example.com,+79737359757,Google Ads,Contacted,0.0
+67,2024-07-09,user67@example.com,+79472761269,Referral,Unqualified,0.0
+68,2024-02-04,user68@example.com,+79467432709,Organic Search,New,0.0
+69,2024-07-03,user69@example.com,+79270272904,Organic Search,Contacted,0.0
+70,2024-05-19,user70@example.com,+79406220809,Organic Search,New,0.0
+71,2024-05-01,user71@example.com,+79462454915,Direct,Contacted,0.0
+72,2024-05-28,user72@example.com,+79553176228,Direct,Qualified,5804.7
+73,2024-02-11,user73@example.com,+79502875109,Google Ads,Unqualified,0.0
+74,2024-07-07,user74@example.com,+79996435153,Organic Search,Qualified,5979.13
+75,2024-04-16,user75@example.com,+79770263312,Organic Search,Contacted,0.0
+76,2024-04-24,user76@example.com,+79762823168,Referral,Unqualified,0.0
+77,2024-05-10,user77@example.com,+79631138097,Referral,Contacted,0.0
+78,2024-01-25,user78@example.com,+79386888330,Organic Search,New,0.0
+79,2024-01-24,user79@example.com,+79178911501,Organic Search,Qualified,37823.37
+80,2024-01-06,user80@example.com,+79782157777,Direct,Contacted,0.0
+81,2024-03-13,user81@example.com,+79188148406,Google Ads,New,0.0
+82,2024-06-25,user82@example.com,+79356194627,Google Ads,Unqualified,0.0
+83,2024-07-13,user83@example.com,+79300941421,Referral,Unqualified,0.0
+84,2024-05-08,user84@example.com,+79483467456,Direct,Qualified,25246.79
+85,2024-06-21,user85@example.com,+79301803962,Google Ads,Qualified,44937.63
+86,2024-04-17,user86@example.com,+79672868132,Referral,Unqualified,0.0
+87,2024-01-29,user87@example.com,+79599877748,Direct,Contacted,0.0
+88,2024-07-20,user88@example.com,+79849087714,Organic Search,Qualified,47653.1
+89,2024-02-19,user89@example.com,+79845936150,Organic Search,Unqualified,0.0
+90,2024-02-18,user90@example.com,+79246066897,Organic Search,Contacted,0.0
+91,2024-06-16,user91@example.com,+79249285733,Facebook Ads,New,0.0
+92,2024-04-24,user92@example.com,+79822698318,Organic Search,Unqualified,0.0
+93,2024-05-17,user93@example.com,+79394161441,Direct,Qualified,6232.3
+94,2024-05-22,user94@example.com,+79458393802,Facebook Ads,Qualified,32989.07
+95,2024-04-24,user95@example.com,+79301154458,Organic Search,Contacted,0.0
+96,2024-04-20,user96@example.com,+79709437523,Direct,Contacted,0.0
+97,2024-04-19,user97@example.com,+79239771054,Direct,Contacted,0.0
+98,2024-07-07,user98@example.com,+79835172443,Organic Search,Qualified,15575.69
+99,2024-07-21,user99@example.com,+79633947281,Organic Search,New,0.0
+100,2024-06-20,user100@example.com,+79285502335,Direct,New,0.0
+101,2024-06-22,user101@example.com,+79466688147,Referral,New,0.0
+102,2024-02-22,user102@example.com,+79934771265,Organic Search,Qualified,5387.84
+103,2024-02-28,user103@example.com,+79869539610,Referral,Contacted,0.0
+104,2024-06-29,user104@example.com,+79343593124,Direct,Unqualified,0.0
+105,2024-06-24,user105@example.com,+79339334201,Organic Search,Contacted,0.0
+106,2024-05-28,user106@example.com,+79636063219,Facebook Ads,Contacted,0.0
+107,2024-06-11,user107@example.com,+79919849061,Facebook Ads,Contacted,0.0
+108,2024-03-14,user108@example.com,+79619919999,Direct,Unqualified,0.0
+109,2024-04-25,user109@example.com,+79640133770,Referral,Qualified,28773.74
+110,2024-04-20,user110@example.com,+79381520686,Facebook Ads,Unqualified,0.0
+111,2024-01-02,user111@example.com,+79783258272,Referral,Unqualified,0.0
+112,2024-01-15,user112@example.com,+79441298288,Referral,Contacted,0.0
+113,2024-06-11,user113@example.com,+79550599521,Direct,Unqualified,0.0
+114,2024-06-23,user114@example.com,+79563264876,Facebook Ads,Qualified,41062.13
+115,2024-03-27,user115@example.com,+79546886717,Facebook Ads,New,0.0
+116,2024-02-26,user116@example.com,+79659535075,Referral,New,0.0
+117,2024-01-08,user117@example.com,+79369047850,Direct,Contacted,0.0
+118,2024-06-10,user118@example.com,+79478031884,Direct,Unqualified,0.0
+119,2024-07-09,user119@example.com,+79979164100,Referral,Contacted,0.0
+120,2024-03-13,user120@example.com,+79395834148,Direct,Unqualified,0.0
+121,2024-02-24,user121@example.com,+79925409588,Facebook Ads,Qualified,46797.52
+122,2024-01-30,user122@example.com,+79448142381,Organic Search,Qualified,2277.65
+123,2024-05-18,user123@example.com,+79405950528,Facebook Ads,Unqualified,0.0
+124,2024-02-02,user124@example.com,+79626202182,Google Ads,Unqualified,0.0
+125,2024-07-10,user125@example.com,+79999234118,Google Ads,Qualified,42344.88
+126,2024-05-30,user126@example.com,+79831191735,Facebook Ads,New,0.0
+127,2024-03-27,user127@example.com,+79267107016,Facebook Ads,New,0.0
+128,2024-01-12,user128@example.com,+79243965473,Referral,Qualified,35412.61
+129,2024-04-10,user129@example.com,+79846530392,Direct,New,0.0
+130,2024-05-27,user130@example.com,+79191557394,Facebook Ads,Unqualified,0.0
+131,2024-02-14,user131@example.com,+79953614198,Referral,Qualified,42454.45
+132,2024-05-23,user132@example.com,+79972590389,Organic Search,Unqualified,0.0
+133,2024-04-09,user133@example.com,+79462686079,Direct,Contacted,0.0
+134,2024-02-17,user134@example.com,+79781979449,Direct,Qualified,1619.98
+135,2024-02-12,user135@example.com,+79634260692,Direct,New,0.0
+136,2024-05-18,user136@example.com,+79659798767,Direct,Contacted,0.0
+137,2024-05-13,user137@example.com,+79347872483,Direct,Qualified,40477.79
+138,2024-05-16,user138@example.com,+79908078281,Organic Search,Contacted,0.0
+139,2024-01-04,user139@example.com,+79584802028,Referral,New,0.0
+140,2024-04-03,user140@example.com,+79404443969,Google Ads,New,0.0
+141,2024-02-20,user141@example.com,+79798900424,Organic Search,Qualified,44945.93
+142,2024-06-01,user142@example.com,+79996372151,Direct,Qualified,30247.34
+143,2024-02-22,user143@example.com,+79118749347,Google Ads,Unqualified,0.0
+144,2024-06-08,user144@example.com,+79145943767,Facebook Ads,Qualified,30656.52
+145,2024-01-26,user145@example.com,+79754911732,Facebook Ads,Unqualified,0.0
+146,2024-07-07,user146@example.com,+79672999370,Google Ads,Contacted,0.0
+147,2024-02-26,user147@example.com,+79542170672,Facebook Ads,Qualified,33788.28
+148,2024-01-22,user148@example.com,+79823964367,Facebook Ads,Contacted,0.0
+149,2024-04-03,user149@example.com,+79292698312,Organic Search,New,0.0
+150,2024-05-16,user150@example.com,+79807832396,Direct,Unqualified,0.0
+151,2024-02-20,user151@example.com,+79347000607,Facebook Ads,Unqualified,0.0
+152,2024-05-17,user152@example.com,+79692917915,Facebook Ads,Contacted,0.0
+153,2024-01-15,user153@example.com,+79622417035,Organic Search,Unqualified,0.0
+154,2024-07-21,user154@example.com,+79824266020,Facebook Ads,Qualified,25095.61
+155,2024-02-05,user155@example.com,+79916852414,Referral,Unqualified,0.0
+156,2024-04-24,user156@example.com,+79811919340,Referral,Contacted,0.0
+157,2024-05-14,user157@example.com,+79376195064,Referral,Contacted,0.0
+158,2024-07-07,user158@example.com,+79249630702,Organic Search,Qualified,6032.73
+159,2024-04-12,user159@example.com,+79137685616,Google Ads,Unqualified,0.0
+160,2024-04-13,user160@example.com,+79861845565,Direct,New,0.0
+161,2024-01-17,user161@example.com,+79121510207,Google Ads,Contacted,0.0
+162,2024-01-06,user162@example.com,+79954757114,Facebook Ads,Unqualified,0.0
+163,2024-05-09,user163@example.com,+79729702770,Direct,New,0.0
+164,2024-05-26,user164@example.com,+79103321591,Facebook Ads,Contacted,0.0
+165,2024-07-23,user165@example.com,+79126822914,Organic Search,Qualified,11954.2
+166,2024-03-11,user166@example.com,+79282050224,Referral,Contacted,0.0
+167,2024-02-21,user167@example.com,+79505245365,Direct,Unqualified,0.0
+168,2024-01-01,user168@example.com,+79347547606,Direct,Contacted,0.0
+169,2024-03-07,user169@example.com,+79710504472,Referral,Qualified,46356.88
+170,2024-01-20,user170@example.com,+79144778544,Referral,New,0.0
+171,2024-03-06,user171@example.com,+79147622304,Facebook Ads,Contacted,0.0
+172,2024-04-08,user172@example.com,+79380190187,Referral,New,0.0
+173,2024-05-24,user173@example.com,+79978965594,Facebook Ads,New,0.0
+174,2024-02-25,user174@example.com,+79358327413,Referral,Qualified,35567.72
+175,2024-04-12,user175@example.com,+79669975992,Organic Search,Unqualified,0.0
+176,2024-04-28,user176@example.com,+79771849649,Facebook Ads,Unqualified,0.0
+177,2024-06-15,user177@example.com,+79993355389,Google Ads,Contacted,0.0
+178,2024-05-23,user178@example.com,+79542146550,Direct,Contacted,0.0
+179,2024-01-22,user179@example.com,+79763463632,Google Ads,Qualified,31155.63
+180,2024-06-30,user180@example.com,+79295521570,Google Ads,Qualified,10578.6
+181,2024-03-11,user181@example.com,+79171364473,Direct,Contacted,0.0
+182,2024-05-28,user182@example.com,+79147021835,Direct,New,0.0
+183,2024-03-05,user183@example.com,+79210328201,Organic Search,Contacted,0.0
+184,2024-02-12,user184@example.com,+79114940482,Facebook Ads,Contacted,0.0
+185,2024-05-14,user185@example.com,+79336967501,Referral,New,0.0
+186,2024-02-23,user186@example.com,+79310452339,Facebook Ads,New,0.0
+187,2024-03-01,user187@example.com,+79298599904,Referral,Qualified,41471.25
+188,2024-01-31,user188@example.com,+79390742132,Organic Search,New,0.0
+189,2024-07-22,user189@example.com,+79422409281,Google Ads,Contacted,0.0
+190,2024-05-11,user190@example.com,+79542359420,Direct,Qualified,25853.62
+191,2024-06-29,user191@example.com,+79659358593,Direct,New,0.0
+192,2024-02-01,user192@example.com,+79312973843,Referral,Qualified,10908.16
+193,2024-05-10,user193@example.com,+79431392935,Facebook Ads,Unqualified,0.0
+194,2024-03-12,user194@example.com,+79807209210,Google Ads,Unqualified,0.0
+195,2024-02-25,user195@example.com,+79918263020,Organic Search,Contacted,0.0
+196,2024-07-15,user196@example.com,+79918483310,Referral,New,0.0
+197,2024-01-03,user197@example.com,+79117338790,Facebook Ads,Unqualified,0.0
+198,2024-04-17,user198@example.com,+79647997153,Direct,Qualified,2249.76
+199,2024-04-19,user199@example.com,+79433459748,Direct,Qualified,7843.88
+200,2024-07-25,user200@example.com,+79251309248,Referral,New,0.0
+201,2024-02-22,user201@example.com,+79602568494,Facebook Ads,New,0.0
+202,2024-01-16,user202@example.com,+79309739341,Referral,Unqualified,0.0
+203,2024-01-24,user203@example.com,+79343940198,Organic Search,Unqualified,0.0
+204,2024-01-21,user204@example.com,+79620726629,Google Ads,Contacted,0.0
+205,2024-04-24,user205@example.com,+79640350619,Google Ads,New,0.0
+206,2024-06-30,user206@example.com,+79673264450,Direct,Contacted,0.0
+207,2024-03-14,user207@example.com,+79962184356,Facebook Ads,Unqualified,0.0
+208,2024-04-22,user208@example.com,+79750415338,Organic Search,Contacted,0.0
+209,2024-01-13,user209@example.com,+79332627723,Direct,New,0.0
+210,2024-07-09,user210@example.com,+79496231315,Referral,New,0.0
+211,2024-01-14,user211@example.com,+79297737565,Direct,Contacted,0.0
+212,2024-05-13,user212@example.com,+79179588926,Organic Search,Qualified,46093.59
+213,2024-07-04,user213@example.com,+79338916440,Facebook Ads,Unqualified,0.0
+214,2024-03-21,user214@example.com,+79531974268,Facebook Ads,Qualified,27319.78
+215,2024-05-07,user215@example.com,+79745998379,Organic Search,Qualified,30913.66
+216,2024-05-25,user216@example.com,+79987109846,Organic Search,New,0.0
+217,2024-03-11,user217@example.com,+79397427730,Organic Search,New,0.0
+218,2024-03-05,user218@example.com,+79504525861,Facebook Ads,Contacted,0.0
+219,2024-06-06,user219@example.com,+79918746269,Google Ads,Contacted,0.0
+220,2024-03-02,user220@example.com,+79309605335,Facebook Ads,Qualified,37425.5
+221,2024-04-14,user221@example.com,+79726663530,Google Ads,Unqualified,0.0
+222,2024-06-27,user222@example.com,+79993665594,Facebook Ads,New,0.0
+223,2024-02-23,user223@example.com,+79283470646,Google Ads,Unqualified,0.0
+224,2024-06-27,user224@example.com,+79332420626,Organic Search,Qualified,36360.91
+225,2024-04-25,user225@example.com,+79743654217,Facebook Ads,New,0.0
+226,2024-03-13,user226@example.com,+79747623908,Referral,Unqualified,0.0
+227,2024-02-03,user227@example.com,+79944855915,Google Ads,Qualified,18509.29
+228,2024-03-24,user228@example.com,+79601967355,Referral,New,0.0
+229,2024-07-05,user229@example.com,+79546654403,Facebook Ads,Qualified,33440.0
+230,2024-03-20,user230@example.com,+79918885393,Google Ads,New,0.0
+231,2024-01-25,user231@example.com,+79285584031,Direct,Contacted,0.0
+232,2024-03-27,user232@example.com,+79821488941,Google Ads,New,0.0
+233,2024-07-17,user233@example.com,+79158946135,Facebook Ads,Qualified,38660.87
+234,2024-01-26,user234@example.com,+79175066907,Facebook Ads,Qualified,26664.48
+235,2024-07-18,user235@example.com,+79288365818,Referral,Contacted,0.0
+236,2024-06-29,user236@example.com,+79137658298,Google Ads,Unqualified,0.0
+237,2024-07-22,user237@example.com,+79434825611,Referral,Qualified,32408.55
+238,2024-06-06,user238@example.com,+79885440464,Referral,Qualified,2819.61
+239,2024-05-03,user239@example.com,+79103272982,Referral,Unqualified,0.0
+240,2024-06-28,user240@example.com,+79787429896,Direct,Unqualified,0.0
+241,2024-02-11,user241@example.com,+79287248563,Referral,New,0.0
+242,2024-01-05,user242@example.com,+79669556386,Direct,Qualified,7273.04
+243,2024-05-22,user243@example.com,+79264388066,Facebook Ads,Contacted,0.0
+244,2024-01-03,user244@example.com,+79410161354,Facebook Ads,Contacted,0.0
+245,2024-06-26,user245@example.com,+79906074601,Google Ads,Unqualified,0.0
+246,2024-01-27,user246@example.com,+79292338896,Direct,Contacted,0.0
+247,2024-07-24,user247@example.com,+79819548919,Facebook Ads,Contacted,0.0
+248,2024-04-14,user248@example.com,+79462137907,Direct,Unqualified,0.0
+249,2024-03-30,user249@example.com,+79611024674,Facebook Ads,Contacted,0.0
+250,2024-03-10,user250@example.com,+79254394705,Referral,Contacted,0.0
+251,2024-01-23,user251@example.com,+79304093655,Facebook Ads,New,0.0
+252,2024-07-08,user252@example.com,+79681807685,Google Ads,New,0.0
+253,2024-01-16,user253@example.com,+79453386377,Referral,New,0.0
+254,2024-02-23,user254@example.com,+79491392855,Direct,New,0.0
+255,2024-02-19,user255@example.com,+79642138271,Facebook Ads,Qualified,46848.34
+256,2024-06-10,user256@example.com,+79427442917,Google Ads,New,0.0
+257,2024-05-15,user257@example.com,+79635983283,Direct,New,0.0
+258,2024-04-23,user258@example.com,+79832408287,Facebook Ads,Unqualified,0.0
+259,2024-07-05,user259@example.com,+79158099615,Referral,Qualified,4270.32
+260,2024-03-11,user260@example.com,+79981024243,Facebook Ads,New,0.0
+261,2024-03-09,user261@example.com,+79958237137,Facebook Ads,Contacted,0.0
+262,2024-05-04,user262@example.com,+79573478442,Direct,Unqualified,0.0
+263,2024-04-06,user263@example.com,+79462841228,Referral,Contacted,0.0
+264,2024-04-21,user264@example.com,+79324450878,Facebook Ads,Unqualified,0.0
+265,2024-06-09,user265@example.com,+79811792291,Organic Search,Qualified,3837.03
+266,2024-06-09,user266@example.com,+79949479953,Organic Search,Qualified,1748.56
+267,2024-07-08,user267@example.com,+79314672830,Direct,Unqualified,0.0
+268,2024-06-11,user268@example.com,+79570223891,Google Ads,Unqualified,0.0
+269,2024-06-06,user269@example.com,+79847870195,Direct,Unqualified,0.0
+270,2024-05-30,user270@example.com,+79968932810,Organic Search,Unqualified,0.0
+271,2024-04-19,user271@example.com,+79708701812,Organic Search,Contacted,0.0
+272,2024-02-09,user272@example.com,+79407443987,Referral,Contacted,0.0
+273,2024-04-15,user273@example.com,+79105644059,Organic Search,New,0.0
+274,2024-03-09,user274@example.com,+79139444735,Direct,New,0.0
+275,2024-06-11,user275@example.com,+79384872490,Facebook Ads,Contacted,0.0
+276,2024-06-26,user276@example.com,+79720674790,Organic Search,Qualified,15205.59
+277,2024-05-01,user277@example.com,+79392497855,Referral,Unqualified,0.0
+278,2024-05-27,user278@example.com,+79787143800,Facebook Ads,Qualified,49257.37
+279,2024-01-10,user279@example.com,+79126323279,Referral,New,0.0
+280,2024-05-18,user280@example.com,+79480799007,Facebook Ads,Contacted,0.0
+281,2024-07-18,user281@example.com,+79289020739,Referral,Contacted,0.0
+282,2024-03-10,user282@example.com,+79419313885,Organic Search,Qualified,44699.86
+283,2024-06-25,user283@example.com,+79611517089,Facebook Ads,New,0.0
+284,2024-05-03,user284@example.com,+79427446881,Referral,Unqualified,0.0
+285,2024-01-18,user285@example.com,+79565442636,Referral,Unqualified,0.0
+286,2024-01-29,user286@example.com,+79425659448,Google Ads,Contacted,0.0
+287,2024-07-15,user287@example.com,+79294070435,Direct,New,0.0
+288,2024-04-09,user288@example.com,+79995269433,Direct,New,0.0
+289,2024-05-30,user289@example.com,+79678983224,Organic Search,New,0.0
+290,2024-05-13,user290@example.com,+79637059151,Facebook Ads,Unqualified,0.0
+291,2024-07-24,user291@example.com,+79931482134,Facebook Ads,Contacted,0.0
+292,2024-03-01,user292@example.com,+79527141313,Facebook Ads,Contacted,0.0
+293,2024-05-31,user293@example.com,+79474246262,Facebook Ads,Contacted,0.0
+294,2024-05-30,user294@example.com,+79442851780,Organic Search,Qualified,12128.57
+295,2024-07-10,user295@example.com,+79889592543,Direct,Contacted,0.0
+296,2024-03-25,user296@example.com,+79920308164,Referral,Qualified,28907.66
+297,2024-05-31,user297@example.com,+79101832980,Google Ads,Unqualified,0.0
+298,2024-02-06,user298@example.com,+79385296101,Google Ads,New,0.0
+299,2024-02-17,user299@example.com,+79826248358,Referral,Contacted,0.0
+300,2024-01-09,user300@example.com,+79685997727,Referral,New,0.0
+301,2024-02-18,user301@example.com,+79655305459,Organic Search,Contacted,0.0
+302,2024-01-09,user302@example.com,+79259213827,Organic Search,Unqualified,0.0
+303,2024-07-24,user303@example.com,+79854441708,Facebook Ads,Contacted,0.0
+304,2024-01-07,user304@example.com,+79758518117,Organic Search,Qualified,5944.67
+305,2024-04-09,user305@example.com,+79998075337,Organic Search,New,0.0
+306,2024-01-06,user306@example.com,+79142367860,Google Ads,Contacted,0.0
+307,2024-02-07,user307@example.com,+79504502678,Facebook Ads,Contacted,0.0
+308,2024-01-18,user308@example.com,+79686977330,Direct,New,0.0
+309,2024-03-26,user309@example.com,+79794948103,Organic Search,New,0.0
+310,2024-04-26,user310@example.com,+79417534814,Organic Search,Qualified,20019.12
+311,2024-05-14,user311@example.com,+79356453530,Direct,Qualified,37398.88
+312,2024-05-14,user312@example.com,+79216448828,Direct,Unqualified,0.0
+313,2024-04-28,user313@example.com,+79273361200,Organic Search,Contacted,0.0
+314,2024-07-06,user314@example.com,+79154336260,Referral,New,0.0
+315,2024-02-20,user315@example.com,+79679467656,Organic Search,New,0.0
+316,2024-03-20,user316@example.com,+79526733129,Organic Search,New,0.0
+317,2024-03-22,user317@example.com,+79924659588,Google Ads,Qualified,1542.4
+318,2024-05-08,user318@example.com,+79615926889,Facebook Ads,Contacted,0.0
+319,2024-03-26,user319@example.com,+79792060354,Google Ads,Contacted,0.0
+320,2024-03-18,user320@example.com,+79657861043,Google Ads,Qualified,6447.64
+321,2024-03-18,user321@example.com,+79574144008,Google Ads,Contacted,0.0
+322,2024-01-23,user322@example.com,+79500078596,Facebook Ads,Qualified,35260.17
+323,2024-07-04,user323@example.com,+79259896942,Google Ads,New,0.0
+324,2024-06-18,user324@example.com,+79922101192,Referral,New,0.0
+325,2024-05-08,user325@example.com,+79869581921,Direct,New,0.0
+326,2024-03-10,user326@example.com,+79252346726,Google Ads,New,0.0
+327,2024-03-27,user327@example.com,+79140942201,Direct,New,0.0
+328,2024-02-08,user328@example.com,+79773156878,Direct,Unqualified,0.0
+329,2024-04-21,user329@example.com,+79432823993,Organic Search,Qualified,42088.31
+330,2024-02-12,user330@example.com,+79110481937,Direct,Contacted,0.0
+331,2024-05-10,user331@example.com,+79245066818,Referral,New,0.0
+332,2024-02-19,user332@example.com,+79296892033,Facebook Ads,Unqualified,0.0
+333,2024-05-16,user333@example.com,+79184406274,Facebook Ads,New,0.0
+334,2024-03-03,user334@example.com,+79378434714,Organic Search,Contacted,0.0
+335,2024-01-18,user335@example.com,+79794957296,Google Ads,Unqualified,0.0
+336,2024-07-08,user336@example.com,+79515032323,Organic Search,Contacted,0.0
+337,2024-05-09,user337@example.com,+79324854406,Direct,Contacted,0.0
+338,2024-03-08,user338@example.com,+79665230717,Direct,Qualified,2042.04
+339,2024-04-09,user339@example.com,+79206360020,Google Ads,New,0.0
+340,2024-01-16,user340@example.com,+79982956010,Referral,New,0.0
+341,2024-02-23,user341@example.com,+79725166419,Direct,Unqualified,0.0
+342,2024-04-26,user342@example.com,+79917718777,Google Ads,Contacted,0.0
+343,2024-02-12,user343@example.com,+79410332566,Facebook Ads,Qualified,46660.82
+344,2024-04-10,user344@example.com,+79205897266,Direct,Unqualified,0.0
+345,2024-05-10,user345@example.com,+79294515641,Organic Search,Unqualified,0.0
+346,2024-06-04,user346@example.com,+79921331040,Direct,Unqualified,0.0
+347,2024-03-13,user347@example.com,+79486019244,Facebook Ads,Unqualified,0.0
+348,2024-05-04,user348@example.com,+79554786719,Organic Search,Contacted,0.0
+349,2024-03-22,user349@example.com,+79324388648,Facebook Ads,Contacted,0.0
+350,2024-01-10,user350@example.com,+79297410526,Organic Search,Qualified,9336.86
+351,2024-06-13,user351@example.com,+79454559741,Google Ads,New,0.0
+352,2024-05-20,user352@example.com,+79404921417,Facebook Ads,Unqualified,0.0
+353,2024-04-30,user353@example.com,+79117099267,Google Ads,New,0.0
+354,2024-03-30,user354@example.com,+79673185141,Organic Search,New,0.0
+355,2024-03-24,user355@example.com,+79648294114,Referral,Qualified,7987.36
+356,2024-06-28,user356@example.com,+79586302880,Organic Search,Contacted,0.0
+357,2024-04-30,user357@example.com,+79365983514,Organic Search,Qualified,13798.16
+358,2024-07-06,user358@example.com,+79171655140,Direct,Unqualified,0.0
+359,2024-04-14,user359@example.com,+79602851766,Organic Search,Contacted,0.0
+360,2024-01-18,user360@example.com,+79474719027,Facebook Ads,Qualified,10369.83
+361,2024-01-22,user361@example.com,+79433184659,Direct,New,0.0
+362,2024-07-05,user362@example.com,+79592561927,Organic Search,Qualified,1628.43
+363,2024-06-19,user363@example.com,+79311132318,Facebook Ads,Unqualified,0.0
+364,2024-04-21,user364@example.com,+79828947326,Referral,New,0.0
+365,2024-05-08,user365@example.com,+79717846289,Google Ads,New,0.0
+366,2024-04-07,user366@example.com,+79645332215,Google Ads,Qualified,3168.1
+367,2024-06-12,user367@example.com,+79854235246,Organic Search,Contacted,0.0
+368,2024-06-01,user368@example.com,+79448538665,Google Ads,Qualified,14411.41
+369,2024-01-07,user369@example.com,+79783063280,Google Ads,Unqualified,0.0
+370,2024-01-13,user370@example.com,+79769409308,Facebook Ads,Contacted,0.0
+371,2024-02-07,user371@example.com,+79748504877,Facebook Ads,New,0.0
+372,2024-01-23,user372@example.com,+79808720170,Organic Search,New,0.0
+373,2024-02-15,user373@example.com,+79325050855,Facebook Ads,Qualified,24507.51
+374,2024-07-21,user374@example.com,+79816940523,Direct,Qualified,17553.24
+375,2024-02-12,user375@example.com,+79881886036,Google Ads,Unqualified,0.0
+376,2024-03-08,user376@example.com,+79667293702,Referral,New,0.0
+377,2024-04-19,user377@example.com,+79617224909,Direct,Contacted,0.0
+378,2024-05-03,user378@example.com,+79670293950,Facebook Ads,New,0.0
+379,2024-01-16,user379@example.com,+79601453680,Facebook Ads,Qualified,37074.01
+380,2024-03-18,user380@example.com,+79585887517,Referral,New,0.0
+381,2024-02-28,user381@example.com,+79787082681,Organic Search,Contacted,0.0
+382,2024-02-25,user382@example.com,+79764554255,Google Ads,Contacted,0.0
+383,2024-01-17,user383@example.com,+79540960282,Organic Search,Contacted,0.0
+384,2024-07-18,user384@example.com,+79894876640,Google Ads,New,0.0
+385,2024-06-30,user385@example.com,+79427899629,Facebook Ads,Contacted,0.0
+386,2024-02-07,user386@example.com,+79450551313,Referral,Contacted,0.0
+387,2024-03-22,user387@example.com,+79379363966,Direct,Qualified,1071.25
+388,2024-03-30,user388@example.com,+79847086683,Facebook Ads,Unqualified,0.0
+389,2024-07-03,user389@example.com,+79130360147,Organic Search,Contacted,0.0
+390,2024-05-10,user390@example.com,+79599461252,Referral,Qualified,49212.05
+391,2024-06-15,user391@example.com,+79171103034,Facebook Ads,Unqualified,0.0
+392,2024-04-20,user392@example.com,+79445922906,Facebook Ads,Qualified,20664.23
+393,2024-07-12,user393@example.com,+79528645614,Google Ads,Qualified,43125.37
+394,2024-02-23,user394@example.com,+79809639445,Organic Search,Contacted,0.0
+395,2024-05-26,user395@example.com,+79129511847,Google Ads,Qualified,32337.48
+396,2024-06-11,user396@example.com,+79476637838,Direct,Unqualified,0.0
+397,2024-05-08,user397@example.com,+79173575972,Google Ads,Unqualified,0.0
+398,2024-03-26,user398@example.com,+79674108888,Organic Search,Qualified,30806.52
+399,2024-02-10,user399@example.com,+79348243213,Referral,New,0.0
+400,2024-06-15,user400@example.com,+79956083452,Google Ads,Contacted,0.0
+401,2024-06-25,user401@example.com,+79165452117,Facebook Ads,Contacted,0.0
+402,2024-03-09,user402@example.com,+79737459046,Facebook Ads,Qualified,36211.32
+403,2024-06-21,user403@example.com,+79652822909,Facebook Ads,Contacted,0.0
+404,2024-04-09,user404@example.com,+79249724572,Organic Search,Contacted,0.0
+405,2024-01-23,user405@example.com,+79527014161,Google Ads,New,0.0
+406,2024-03-04,user406@example.com,+79587048369,Referral,Qualified,21124.8
+407,2024-03-12,user407@example.com,+79619462836,Referral,Contacted,0.0
+408,2024-01-16,user408@example.com,+79681696106,Direct,Unqualified,0.0
+409,2024-06-04,user409@example.com,+79759394335,Facebook Ads,Contacted,0.0
+410,2024-07-21,user410@example.com,+79432216262,Facebook Ads,New,0.0
+411,2024-07-16,user411@example.com,+79338137718,Organic Search,Contacted,0.0
+412,2024-04-12,user412@example.com,+79260317952,Direct,Contacted,0.0
+413,2024-06-01,user413@example.com,+79967674951,Facebook Ads,Unqualified,0.0
+414,2024-06-05,user414@example.com,+79561295482,Direct,Unqualified,0.0
+415,2024-04-21,user415@example.com,+79320075266,Direct,Qualified,43882.63
+416,2024-01-13,user416@example.com,+79594504193,Google Ads,Contacted,0.0
+417,2024-04-14,user417@example.com,+79240206323,Facebook Ads,Contacted,0.0
+418,2024-03-21,user418@example.com,+79385119492,Facebook Ads,New,0.0
+419,2024-03-12,user419@example.com,+79957025154,Direct,Qualified,3641.0
+420,2024-03-11,user420@example.com,+79851427316,Direct,Unqualified,0.0
+421,2024-02-04,user421@example.com,+79632520071,Direct,New,0.0
+422,2024-01-23,user422@example.com,+79852953563,Direct,New,0.0
+423,2024-01-10,user423@example.com,+79533239421,Direct,Qualified,16680.12
+424,2024-03-05,user424@example.com,+79334440660,Direct,New,0.0
+425,2024-01-29,user425@example.com,+79405717916,Direct,Unqualified,0.0
+426,2024-03-02,user426@example.com,+79883144006,Facebook Ads,New,0.0
+427,2024-05-27,user427@example.com,+79649947341,Google Ads,New,0.0
+428,2024-05-20,user428@example.com,+79585582066,Facebook Ads,Qualified,28884.74
+429,2024-02-24,user429@example.com,+79951971097,Google Ads,Contacted,0.0
+430,2024-04-22,user430@example.com,+79956606070,Organic Search,Qualified,18012.39
+431,2024-04-03,user431@example.com,+79661807989,Facebook Ads,Contacted,0.0
+432,2024-04-24,user432@example.com,+79771577719,Referral,Unqualified,0.0
+433,2024-03-06,user433@example.com,+79143746922,Facebook Ads,Contacted,0.0
+434,2024-07-18,user434@example.com,+79125244464,Referral,Contacted,0.0
+435,2024-03-12,user435@example.com,+79201029519,Direct,Contacted,0.0
+436,2024-02-09,user436@example.com,+79466980001,Google Ads,Unqualified,0.0
+437,2024-03-12,user437@example.com,+79144426426,Google Ads,Unqualified,0.0
+438,2024-06-02,user438@example.com,+79456931338,Referral,Unqualified,0.0
+439,2024-04-29,user439@example.com,+79103884520,Direct,New,0.0
+440,2024-07-06,user440@example.com,+79642089798,Organic Search,Contacted,0.0
+441,2024-06-25,user441@example.com,+79903584470,Organic Search,Contacted,0.0
+442,2024-01-14,user442@example.com,+79155537791,Direct,Qualified,24264.25
+443,2024-03-15,user443@example.com,+79311100792,Google Ads,Qualified,15254.1
+444,2024-03-18,user444@example.com,+79984000532,Direct,Contacted,0.0
+445,2024-04-05,user445@example.com,+79984547581,Organic Search,Qualified,3652.8
+446,2024-03-20,user446@example.com,+79801355470,Direct,Qualified,28468.19
+447,2024-03-23,user447@example.com,+79101218318,Referral,Qualified,7449.48
+448,2024-03-19,user448@example.com,+79985759177,Facebook Ads,Qualified,44834.89
+449,2024-03-27,user449@example.com,+79780907071,Organic Search,New,0.0
+450,2024-07-10,user450@example.com,+79501137800,Organic Search,Contacted,0.0
+451,2024-03-03,user451@example.com,+79121116059,Organic Search,New,0.0
+452,2024-06-10,user452@example.com,+79181602368,Direct,New,0.0
+453,2024-04-01,user453@example.com,+79784508630,Referral,Qualified,30639.56
+454,2024-05-26,user454@example.com,+79109269268,Referral,Qualified,19570.53
+455,2024-02-01,user455@example.com,+79234292958,Direct,Unqualified,0.0
+456,2024-06-15,user456@example.com,+79698062110,Organic Search,New,0.0
+457,2024-04-15,user457@example.com,+79949845260,Referral,Qualified,29891.29
+458,2024-07-25,user458@example.com,+79143935536,Organic Search,Unqualified,0.0
+459,2024-06-27,user459@example.com,+79330727557,Organic Search,New,0.0
+460,2024-07-18,user460@example.com,+79637619376,Organic Search,Qualified,6854.22
+461,2024-01-04,user461@example.com,+79554014839,Google Ads,Qualified,29304.3
+462,2024-04-05,user462@example.com,+79237095008,Direct,Contacted,0.0
+463,2024-01-25,user463@example.com,+79588410630,Organic Search,Contacted,0.0
+464,2024-01-08,user464@example.com,+79310806011,Direct,Unqualified,0.0
+465,2024-06-19,user465@example.com,+79918375495,Facebook Ads,Contacted,0.0
+466,2024-02-07,user466@example.com,+79814474882,Google Ads,Unqualified,0.0
+467,2024-06-22,user467@example.com,+79334150460,Facebook Ads,Contacted,0.0
+468,2024-04-11,user468@example.com,+79663487236,Google Ads,Qualified,5136.93
+469,2024-01-10,user469@example.com,+79265480248,Facebook Ads,Qualified,27515.15
+470,2024-06-11,user470@example.com,+79324764135,Google Ads,Contacted,0.0
+471,2024-01-30,user471@example.com,+79849703898,Direct,Contacted,0.0
+472,2024-03-13,user472@example.com,+79772331131,Organic Search,Unqualified,0.0
+473,2024-03-11,user473@example.com,+79800355885,Organic Search,Unqualified,0.0
+474,2024-02-28,user474@example.com,+79432177713,Google Ads,Contacted,0.0
+475,2024-03-27,user475@example.com,+79354803589,Organic Search,Qualified,2552.41
+476,2024-03-10,user476@example.com,+79293325955,Referral,Contacted,0.0
+477,2024-02-15,user477@example.com,+79530077720,Referral,Qualified,37193.28
+478,2024-06-13,user478@example.com,+79821889246,Google Ads,Contacted,0.0
+479,2024-03-05,user479@example.com,+79873652798,Facebook Ads,Qualified,13931.99
+480,2024-02-06,user480@example.com,+79136069113,Referral,Qualified,17327.69
+481,2024-02-03,user481@example.com,+79124019481,Referral,Contacted,0.0
+482,2024-02-16,user482@example.com,+79183232369,Referral,Contacted,0.0
+483,2024-02-06,user483@example.com,+79600620983,Referral,New,0.0
+484,2024-01-19,user484@example.com,+79201949282,Organic Search,Qualified,34101.73
+485,2024-02-08,user485@example.com,+79561059259,Referral,Unqualified,0.0
+486,2024-06-13,user486@example.com,+79250034976,Facebook Ads,Unqualified,0.0
+487,2024-01-09,user487@example.com,+79708749135,Direct,New,0.0
+488,2024-06-13,user488@example.com,+79939586207,Referral,Contacted,0.0
+489,2024-07-02,user489@example.com,+79737225845,Direct,New,0.0
+490,2024-06-03,user490@example.com,+79593092736,Organic Search,Contacted,0.0
+491,2024-05-05,user491@example.com,+79870728504,Facebook Ads,Qualified,14147.83
+492,2024-03-22,user492@example.com,+79857557723,Organic Search,Qualified,47352.72
+493,2024-03-08,user493@example.com,+79498851020,Google Ads,Contacted,0.0
+494,2024-06-08,user494@example.com,+79700306816,Referral,New,0.0
+495,2024-01-10,user495@example.com,+79910267288,Facebook Ads,Contacted,0.0
+496,2024-07-13,user496@example.com,+79877109418,Organic Search,Unqualified,0.0
+497,2024-04-29,user497@example.com,+79419603048,Organic Search,New,0.0
+498,2024-02-01,user498@example.com,+79181021440,Organic Search,Unqualified,0.0
+499,2024-07-24,user499@example.com,+79458488627,Google Ads,Unqualified,0.0
+500,2024-03-18,user500@example.com,+79885451712,Direct,New,0.0
+501,2024-01-24,user501@example.com,+79885757192,Referral,New,0.0
+502,2024-02-03,user502@example.com,+79825478737,Organic Search,Qualified,49208.23
+503,2024-06-10,user503@example.com,+79651291812,Referral,New,0.0
+504,2024-05-27,user504@example.com,+79443157066,Facebook Ads,Unqualified,0.0
+505,2024-02-19,user505@example.com,+79565754780,Referral,Contacted,0.0
+506,2024-01-21,user506@example.com,+79921444028,Direct,New,0.0
+507,2024-05-01,user507@example.com,+79103432663,Direct,New,0.0
+508,2024-01-01,user508@example.com,+79606082777,Referral,Unqualified,0.0
+509,2024-06-02,user509@example.com,+79629701900,Facebook Ads,Qualified,12106.85
+510,2024-05-07,user510@example.com,+79365746791,Organic Search,Unqualified,0.0
+511,2024-03-07,user511@example.com,+79660040378,Google Ads,Qualified,46389.78
+512,2024-05-25,user512@example.com,+79431140905,Facebook Ads,Contacted,0.0
+513,2024-07-09,user513@example.com,+79257865312,Referral,Contacted,0.0
+514,2024-04-14,user514@example.com,+79693677615,Direct,Unqualified,0.0
+515,2024-02-11,user515@example.com,+79672591175,Facebook Ads,Qualified,17389.53
+516,2024-02-11,user516@example.com,+79589273282,Google Ads,New,0.0
+517,2024-02-19,user517@example.com,+79528786230,Facebook Ads,Contacted,0.0
+518,2024-04-11,user518@example.com,+79609471990,Organic Search,New,0.0
+519,2024-02-03,user519@example.com,+79535795832,Facebook Ads,Qualified,37603.67
+520,2024-06-27,user520@example.com,+79271506334,Facebook Ads,Unqualified,0.0
+521,2024-05-04,user521@example.com,+79690606284,Organic Search,Qualified,35664.39
+522,2024-07-23,user522@example.com,+79951687428,Organic Search,Unqualified,0.0
+523,2024-07-04,user523@example.com,+79242983625,Organic Search,Contacted,0.0
+524,2024-06-12,user524@example.com,+79197104967,Facebook Ads,Unqualified,0.0
+525,2024-03-24,user525@example.com,+79881013728,Facebook Ads,New,0.0
+526,2024-06-14,user526@example.com,+79415036433,Google Ads,Contacted,0.0
+527,2024-02-25,user527@example.com,+79970517620,Organic Search,New,0.0
+528,2024-02-24,user528@example.com,+79482724426,Facebook Ads,Qualified,45105.32
+529,2024-06-08,user529@example.com,+79364202704,Facebook Ads,Qualified,9636.54
+530,2024-03-12,user530@example.com,+79419361644,Google Ads,Unqualified,0.0
+531,2024-07-16,user531@example.com,+79986393363,Direct,Unqualified,0.0
+532,2024-07-25,user532@example.com,+79624924523,Referral,New,0.0
+533,2024-04-17,user533@example.com,+79867388186,Facebook Ads,Qualified,38664.46
+534,2024-03-05,user534@example.com,+79414096460,Facebook Ads,Contacted,0.0
+535,2024-04-06,user535@example.com,+79344550485,Referral,Contacted,0.0
+536,2024-01-03,user536@example.com,+79280227316,Facebook Ads,Contacted,0.0
+537,2024-04-09,user537@example.com,+79397560642,Referral,Unqualified,0.0
+538,2024-02-25,user538@example.com,+79865944816,Google Ads,New,0.0
+539,2024-01-05,user539@example.com,+79344489253,Google Ads,Qualified,34187.35
+540,2024-07-08,user540@example.com,+79988430467,Referral,Contacted,0.0
+541,2024-06-13,user541@example.com,+79934260803,Referral,Unqualified,0.0
+542,2024-04-28,user542@example.com,+79471377138,Google Ads,Contacted,0.0
+543,2024-06-28,user543@example.com,+79350640148,Google Ads,Unqualified,0.0
+544,2024-02-18,user544@example.com,+79478632165,Referral,Contacted,0.0
+545,2024-02-28,user545@example.com,+79982482672,Direct,Contacted,0.0
+546,2024-05-01,user546@example.com,+79212893599,Google Ads,Unqualified,0.0
+547,2024-07-22,user547@example.com,+79575454763,Referral,New,0.0
+548,2024-01-31,user548@example.com,+79988304785,Organic Search,New,0.0
+549,2024-01-06,user549@example.com,+79540938732,Direct,Contacted,0.0
+550,2024-02-17,user550@example.com,+79396967089,Google Ads,New,0.0
+551,2024-05-10,user551@example.com,+79482565117,Google Ads,Unqualified,0.0
+552,2024-04-09,user552@example.com,+79812491594,Direct,Qualified,27993.77
+553,2024-01-28,user553@example.com,+79885327915,Google Ads,New,0.0
+554,2024-01-15,user554@example.com,+79860824024,Facebook Ads,New,0.0
+555,2024-01-23,user555@example.com,+79548918556,Facebook Ads,New,0.0
+556,2024-04-22,user556@example.com,+79357461415,Google Ads,New,0.0
+557,2024-05-31,user557@example.com,+79889561131,Referral,Unqualified,0.0
+558,2024-01-17,user558@example.com,+79260874279,Facebook Ads,New,0.0
+559,2024-02-15,user559@example.com,+79167306591,Direct,New,0.0
+560,2024-03-19,user560@example.com,+79357553659,Direct,Qualified,36948.38
+561,2024-04-27,user561@example.com,+79106511056,Facebook Ads,Contacted,0.0
+562,2024-03-27,user562@example.com,+79855280158,Organic Search,Contacted,0.0
+563,2024-04-02,user563@example.com,+79616285131,Direct,New,0.0
+564,2024-06-14,user564@example.com,+79599516011,Facebook Ads,New,0.0
+565,2024-06-01,user565@example.com,+79983893948,Referral,Unqualified,0.0
+566,2024-06-22,user566@example.com,+79657480549,Facebook Ads,Unqualified,0.0
+567,2024-05-09,user567@example.com,+79260451384,Referral,New,0.0
+568,2024-05-03,user568@example.com,+79453036814,Facebook Ads,Unqualified,0.0
+569,2024-06-30,user569@example.com,+79507710850,Facebook Ads,Contacted,0.0
+570,2024-05-29,user570@example.com,+79651614450,Google Ads,Qualified,5352.68
+571,2024-05-29,user571@example.com,+79562700195,Referral,Unqualified,0.0
+572,2024-06-10,user572@example.com,+79667867966,Facebook Ads,Contacted,0.0
+573,2024-02-18,user573@example.com,+79713243402,Direct,Contacted,0.0
+574,2024-06-04,user574@example.com,+79704358816,Referral,Qualified,10045.82
+575,2024-05-07,user575@example.com,+79162272238,Referral,Unqualified,0.0
+576,2024-01-18,user576@example.com,+79993563987,Direct,Unqualified,0.0
+577,2024-04-12,user577@example.com,+79125582151,Direct,Unqualified,0.0
+578,2024-02-07,user578@example.com,+79450220868,Direct,Unqualified,0.0
+579,2024-03-17,user579@example.com,+79206821867,Referral,Qualified,49464.14
+580,2024-06-07,user580@example.com,+79902156101,Organic Search,Unqualified,0.0
+581,2024-06-17,user581@example.com,+79728917367,Organic Search,Qualified,21567.8
+582,2024-01-08,user582@example.com,+79850107066,Referral,Unqualified,0.0
+583,2024-07-17,user583@example.com,+79655888229,Direct,Qualified,27405.39
+584,2024-06-10,user584@example.com,+79613418109,Google Ads,Contacted,0.0
+585,2024-03-04,user585@example.com,+79253755290,Facebook Ads,New,0.0
+586,2024-02-10,user586@example.com,+79838018547,Facebook Ads,Qualified,2147.95
+587,2024-07-23,user587@example.com,+79168570551,Direct,Unqualified,0.0
+588,2024-04-19,user588@example.com,+79320868749,Organic Search,Qualified,3057.61
+589,2024-02-14,user589@example.com,+79455106433,Direct,New,0.0
+590,2024-03-06,user590@example.com,+79420341732,Organic Search,Contacted,0.0
+591,2024-04-25,user591@example.com,+79457496093,Facebook Ads,Unqualified,0.0
+592,2024-06-15,user592@example.com,+79707041551,Organic Search,Qualified,42411.08
+593,2024-03-20,user593@example.com,+79556034811,Referral,Contacted,0.0
+594,2024-04-20,user594@example.com,+79329162763,Organic Search,Contacted,0.0
+595,2024-05-29,user595@example.com,+79747615438,Organic Search,Unqualified,0.0
+596,2024-02-08,user596@example.com,+79225536770,Organic Search,New,0.0
+597,2024-05-14,user597@example.com,+79899206690,Google Ads,New,0.0
+598,2024-01-06,user598@example.com,+79696180531,Google Ads,New,0.0
+599,2024-03-28,user599@example.com,+79394098264,Direct,Qualified,29533.51
+600,2024-06-25,user600@example.com,+79350885230,Facebook Ads,New,0.0
+601,2024-06-02,user601@example.com,+79372956276,Direct,New,0.0
+602,2024-02-01,user602@example.com,+79147616767,Direct,Contacted,0.0
+603,2024-07-08,user603@example.com,+79631888434,Facebook Ads,New,0.0
+604,2024-05-14,user604@example.com,+79482611637,Referral,Contacted,0.0
+605,2024-04-15,user605@example.com,+79623439203,Facebook Ads,Unqualified,0.0
+606,2024-01-31,user606@example.com,+79538833860,Direct,Contacted,0.0
+607,2024-05-26,user607@example.com,+79152773432,Direct,Unqualified,0.0
+608,2024-03-27,user608@example.com,+79946493176,Direct,New,0.0
+609,2024-01-29,user609@example.com,+79273418645,Referral,Unqualified,0.0
+610,2024-02-14,user610@example.com,+79639360677,Google Ads,Contacted,0.0
+611,2024-04-05,user611@example.com,+79820465503,Facebook Ads,Qualified,47715.93
+612,2024-05-22,user612@example.com,+79455792272,Direct,Contacted,0.0
+613,2024-01-06,user613@example.com,+79128021454,Referral,Qualified,48240.17
+614,2024-03-12,user614@example.com,+79677637659,Referral,New,0.0
+615,2024-06-16,user615@example.com,+79787072995,Organic Search,Unqualified,0.0
+616,2024-05-02,user616@example.com,+79543955837,Direct,Contacted,0.0
+617,2024-04-24,user617@example.com,+79980642627,Referral,Qualified,46952.76
+618,2024-03-08,user618@example.com,+79205472228,Referral,New,0.0
+619,2024-04-20,user619@example.com,+79876592265,Referral,New,0.0
+620,2024-01-10,user620@example.com,+79295706339,Google Ads,Qualified,13481.44
+621,2024-04-27,user621@example.com,+79206644164,Direct,Contacted,0.0
+622,2024-07-25,user622@example.com,+79989455742,Organic Search,Qualified,48623.53
+623,2024-06-01,user623@example.com,+79911646948,Direct,Contacted,0.0
+624,2024-03-01,user624@example.com,+79475886818,Direct,Contacted,0.0
+625,2024-01-31,user625@example.com,+79767594327,Referral,New,0.0
+626,2024-02-24,user626@example.com,+79592517471,Referral,Contacted,0.0
+627,2024-04-30,user627@example.com,+79616839734,Facebook Ads,New,0.0
+628,2024-04-02,user628@example.com,+79500798824,Organic Search,Qualified,28090.19
+629,2024-05-29,user629@example.com,+79886530767,Organic Search,Qualified,6012.26
+630,2024-06-23,user630@example.com,+79939503737,Organic Search,Unqualified,0.0
+631,2024-06-24,user631@example.com,+79879592143,Organic Search,Unqualified,0.0
+632,2024-07-02,user632@example.com,+79801387501,Organic Search,Contacted,0.0
+633,2024-02-24,user633@example.com,+79857039390,Direct,Unqualified,0.0
+634,2024-05-07,user634@example.com,+79687656498,Direct,Contacted,0.0
+635,2024-05-11,user635@example.com,+79996334220,Organic Search,Unqualified,0.0
+636,2024-03-01,user636@example.com,+79472467314,Referral,Unqualified,0.0
+637,2024-02-23,user637@example.com,+79795138896,Direct,Qualified,5482.38
+638,2024-03-29,user638@example.com,+79746481069,Organic Search,New,0.0
+639,2024-06-22,user639@example.com,+79670143865,Referral,Qualified,11580.1
+640,2024-05-29,user640@example.com,+79424111267,Referral,Contacted,0.0
+641,2024-02-13,user641@example.com,+79818763227,Referral,New,0.0
+642,2024-03-20,user642@example.com,+79903895735,Google Ads,Unqualified,0.0
+643,2024-01-08,user643@example.com,+79541657428,Facebook Ads,Unqualified,0.0
+644,2024-06-27,user644@example.com,+79249721318,Organic Search,New,0.0
+645,2024-02-08,user645@example.com,+79142161559,Google Ads,Unqualified,0.0
+646,2024-04-01,user646@example.com,+79443133286,Direct,Qualified,36393.0
+647,2024-05-11,user647@example.com,+79414521386,Organic Search,New,0.0
+648,2024-05-24,user648@example.com,+79184217357,Google Ads,Contacted,0.0
+649,2024-01-05,user649@example.com,+79935035548,Organic Search,Qualified,48246.96
+650,2024-02-10,user650@example.com,+79205405384,Organic Search,Unqualified,0.0
+651,2024-02-14,user651@example.com,+79597721704,Direct,Unqualified,0.0
+652,2024-06-23,user652@example.com,+79647845307,Facebook Ads,Qualified,10219.5
+653,2024-02-04,user653@example.com,+79666480987,Facebook Ads,Contacted,0.0
+654,2024-06-17,user654@example.com,+79297436998,Referral,Contacted,0.0
+655,2024-07-09,user655@example.com,+79470079045,Google Ads,Qualified,48089.27
+656,2024-06-03,user656@example.com,+79182120408,Facebook Ads,Contacted,0.0
+657,2024-06-10,user657@example.com,+79395084151,Direct,Qualified,33095.52
+658,2024-03-21,user658@example.com,+79912872021,Google Ads,Qualified,4939.62
+659,2024-06-19,user659@example.com,+79212576975,Organic Search,Qualified,13842.29
+660,2024-03-04,user660@example.com,+79384881437,Facebook Ads,Contacted,0.0
+661,2024-07-01,user661@example.com,+79319478260,Google Ads,Qualified,13761.36
+662,2024-04-29,user662@example.com,+79696003089,Google Ads,New,0.0
+663,2024-04-21,user663@example.com,+79184036579,Facebook Ads,Contacted,0.0
+664,2024-06-17,user664@example.com,+79528741281,Facebook Ads,Qualified,9366.24
+665,2024-05-04,user665@example.com,+79661188605,Direct,Qualified,49690.86
+666,2024-01-03,user666@example.com,+79880223280,Direct,Qualified,9834.75
+667,2024-06-15,user667@example.com,+79930548181,Facebook Ads,New,0.0
+668,2024-07-10,user668@example.com,+79818984910,Facebook Ads,Unqualified,0.0
+669,2024-03-09,user669@example.com,+79167650929,Google Ads,New,0.0
+670,2024-02-23,user670@example.com,+79220448239,Organic Search,Qualified,49351.76
+671,2024-03-05,user671@example.com,+79289129240,Referral,Contacted,0.0
+672,2024-02-09,user672@example.com,+79378068848,Organic Search,New,0.0
+673,2024-03-07,user673@example.com,+79143836917,Direct,Unqualified,0.0
+674,2024-06-19,user674@example.com,+79546261167,Organic Search,Qualified,26871.97
+675,2024-03-27,user675@example.com,+79886355218,Referral,Unqualified,0.0
+676,2024-01-12,user676@example.com,+79575073786,Direct,New,0.0
+677,2024-04-09,user677@example.com,+79580342521,Google Ads,Contacted,0.0
+678,2024-07-02,user678@example.com,+79868124496,Google Ads,New,0.0
+679,2024-07-25,user679@example.com,+79183764523,Google Ads,New,0.0
+680,2024-03-13,user680@example.com,+79420768731,Facebook Ads,New,0.0
+681,2024-03-02,user681@example.com,+79249473627,Facebook Ads,New,0.0
+682,2024-04-13,user682@example.com,+79610429128,Organic Search,New,0.0
+683,2024-03-08,user683@example.com,+79559620250,Google Ads,New,0.0
+684,2024-06-13,user684@example.com,+79320165372,Google Ads,Unqualified,0.0
+685,2024-06-09,user685@example.com,+79764773066,Facebook Ads,Qualified,38543.97
+686,2024-05-16,user686@example.com,+79122550334,Facebook Ads,New,0.0
+687,2024-04-26,user687@example.com,+79498543876,Organic Search,New,0.0
+688,2024-01-30,user688@example.com,+79375633324,Organic Search,New,0.0
+689,2024-02-19,user689@example.com,+79517530640,Direct,Qualified,40659.9
+690,2024-02-17,user690@example.com,+79648967225,Facebook Ads,Contacted,0.0
+691,2024-01-02,user691@example.com,+79891916675,Google Ads,Contacted,0.0
+692,2024-03-11,user692@example.com,+79226917290,Google Ads,New,0.0
+693,2024-03-16,user693@example.com,+79831698834,Google Ads,Qualified,9265.73
+694,2024-04-09,user694@example.com,+79822839915,Direct,New,0.0
+695,2024-02-16,user695@example.com,+79415399997,Direct,Contacted,0.0
+696,2024-01-15,user696@example.com,+79878441177,Facebook Ads,Contacted,0.0
+697,2024-02-27,user697@example.com,+79368137805,Facebook Ads,Contacted,0.0
+698,2024-05-24,user698@example.com,+79226006819,Direct,Unqualified,0.0
+699,2024-04-28,user699@example.com,+79880865834,Google Ads,Unqualified,0.0
+700,2024-07-01,user700@example.com,+79411041456,Google Ads,Unqualified,0.0
+701,2024-06-15,user701@example.com,+79701678733,Referral,Qualified,18382.05
+702,2024-05-30,user702@example.com,+79785966988,Organic Search,Unqualified,0.0
+703,2024-07-11,user703@example.com,+79605675781,Direct,Unqualified,0.0
+704,2024-05-01,user704@example.com,+79322061466,Google Ads,Unqualified,0.0
+705,2024-02-17,user705@example.com,+79338176026,Referral,Unqualified,0.0
+706,2024-07-14,user706@example.com,+79876727942,Google Ads,Contacted,0.0
+707,2024-05-28,user707@example.com,+79308649391,Organic Search,Qualified,32573.47
+708,2024-02-15,user708@example.com,+79644518306,Google Ads,Qualified,43255.17
+709,2024-04-23,user709@example.com,+79359982923,Direct,Contacted,0.0
+710,2024-07-12,user710@example.com,+79172141452,Direct,Unqualified,0.0
+711,2024-04-12,user711@example.com,+79518393155,Google Ads,Unqualified,0.0
+712,2024-01-29,user712@example.com,+79922282664,Direct,Contacted,0.0
+713,2024-02-07,user713@example.com,+79829209927,Referral,Unqualified,0.0
+714,2024-02-20,user714@example.com,+79926417971,Organic Search,New,0.0
+715,2024-01-20,user715@example.com,+79704501961,Direct,Unqualified,0.0
+716,2024-03-25,user716@example.com,+79892152627,Organic Search,Contacted,0.0
+717,2024-07-04,user717@example.com,+79655204301,Referral,New,0.0
+718,2024-02-23,user718@example.com,+79377833867,Direct,New,0.0
+719,2024-02-15,user719@example.com,+79504136812,Referral,New,0.0
+720,2024-02-16,user720@example.com,+79325531259,Direct,Unqualified,0.0
+721,2024-01-29,user721@example.com,+79264321494,Facebook Ads,Unqualified,0.0
+722,2024-03-28,user722@example.com,+79803164677,Organic Search,Unqualified,0.0
+723,2024-06-09,user723@example.com,+79401188557,Direct,Contacted,0.0
+724,2024-01-02,user724@example.com,+79531960083,Facebook Ads,Contacted,0.0
+725,2024-02-29,user725@example.com,+79329137511,Direct,Contacted,0.0
+726,2024-06-06,user726@example.com,+79341822601,Organic Search,Qualified,31836.73
+727,2024-06-28,user727@example.com,+79908132552,Direct,Contacted,0.0
+728,2024-04-25,user728@example.com,+79545191621,Facebook Ads,New,0.0
+729,2024-05-19,user729@example.com,+79620916497,Organic Search,Qualified,10301.92
+730,2024-05-16,user730@example.com,+79709290653,Referral,Unqualified,0.0
+731,2024-05-19,user731@example.com,+79627323244,Google Ads,Qualified,3692.26
+732,2024-03-05,user732@example.com,+79954671701,Facebook Ads,Unqualified,0.0
+733,2024-02-01,user733@example.com,+79106047390,Organic Search,Unqualified,0.0
+734,2024-06-29,user734@example.com,+79375900467,Facebook Ads,Qualified,17793.4
+735,2024-06-17,user735@example.com,+79881311286,Facebook Ads,New,0.0
+736,2024-04-22,user736@example.com,+79204653187,Facebook Ads,Contacted,0.0
+737,2024-01-22,user737@example.com,+79557825527,Referral,Unqualified,0.0
+738,2024-07-24,user738@example.com,+79865233154,Google Ads,New,0.0
+739,2024-04-28,user739@example.com,+79801522698,Organic Search,New,0.0
+740,2024-07-23,user740@example.com,+79836353608,Referral,Qualified,25529.14
+741,2024-01-30,user741@example.com,+79230422126,Referral,Contacted,0.0
+742,2024-01-21,user742@example.com,+79612905773,Direct,Contacted,0.0
+743,2024-05-06,user743@example.com,+79522566451,Referral,Qualified,41136.95
+744,2024-05-02,user744@example.com,+79525467112,Google Ads,Contacted,0.0
+745,2024-02-03,user745@example.com,+79378552697,Direct,Qualified,47534.77
+746,2024-04-08,user746@example.com,+79569746976,Google Ads,Contacted,0.0
+747,2024-06-10,user747@example.com,+79474921390,Google Ads,Unqualified,0.0
+748,2024-06-17,user748@example.com,+79430576187,Referral,New,0.0
+749,2024-07-22,user749@example.com,+79415263967,Facebook Ads,Qualified,46164.66
+750,2024-07-20,user750@example.com,+79413030154,Google Ads,Contacted,0.0
+751,2024-06-13,user751@example.com,+79653456407,Organic Search,Contacted,0.0
+752,2024-03-16,user752@example.com,+79408362322,Organic Search,Contacted,0.0
+753,2024-03-05,user753@example.com,+79530452166,Referral,Unqualified,0.0
+754,2024-01-19,user754@example.com,+79557173697,Facebook Ads,New,0.0
+755,2024-06-12,user755@example.com,+79327139787,Facebook Ads,New,0.0
+756,2024-04-05,user756@example.com,+79142624077,Referral,Unqualified,0.0
+757,2024-04-19,user757@example.com,+79233030205,Organic Search,Unqualified,0.0
+758,2024-02-09,user758@example.com,+79184216152,Referral,Unqualified,0.0
+759,2024-02-23,user759@example.com,+79564926705,Direct,Unqualified,0.0
+760,2024-06-20,user760@example.com,+79894282311,Organic Search,New,0.0
+761,2024-01-18,user761@example.com,+79625453339,Google Ads,Contacted,0.0
+762,2024-03-14,user762@example.com,+79562129604,Facebook Ads,New,0.0
+763,2024-02-10,user763@example.com,+79292993961,Facebook Ads,Qualified,12491.22
+764,2024-03-29,user764@example.com,+79506927315,Organic Search,Qualified,40232.61
+765,2024-02-09,user765@example.com,+79999231182,Facebook Ads,Contacted,0.0
+766,2024-07-13,user766@example.com,+79446132392,Facebook Ads,Contacted,0.0
+767,2024-05-14,user767@example.com,+79200857410,Organic Search,Unqualified,0.0
+768,2024-01-29,user768@example.com,+79588195199,Google Ads,Unqualified,0.0
+769,2024-04-06,user769@example.com,+79488357419,Organic Search,Qualified,10138.31
+770,2024-05-30,user770@example.com,+79451015126,Direct,Contacted,0.0
+771,2024-03-08,user771@example.com,+79226727814,Facebook Ads,Contacted,0.0
+772,2024-01-20,user772@example.com,+79414286728,Referral,Qualified,15452.85
+773,2024-02-29,user773@example.com,+79946490046,Direct,Unqualified,0.0
+774,2024-04-26,user774@example.com,+79214430956,Facebook Ads,New,0.0
+775,2024-01-30,user775@example.com,+79924024230,Facebook Ads,New,0.0
+776,2024-06-25,user776@example.com,+79531777062,Google Ads,Qualified,7676.43
+777,2024-05-14,user777@example.com,+79674969244,Google Ads,Contacted,0.0
+778,2024-01-06,user778@example.com,+79173699148,Facebook Ads,Unqualified,0.0
+779,2024-07-13,user779@example.com,+79817745294,Organic Search,Qualified,27207.05
+780,2024-04-20,user780@example.com,+79811868681,Direct,Qualified,45264.61
+781,2024-07-09,user781@example.com,+79541791443,Facebook Ads,Contacted,0.0
+782,2024-06-02,user782@example.com,+79298652026,Facebook Ads,Qualified,39608.9
+783,2024-02-19,user783@example.com,+79318052842,Referral,Qualified,12020.6
+784,2024-06-04,user784@example.com,+79811759673,Referral,New,0.0
+785,2024-01-04,user785@example.com,+79422194512,Direct,Contacted,0.0
+786,2024-05-30,user786@example.com,+79900431113,Referral,Qualified,14127.63
+787,2024-01-26,user787@example.com,+79482701249,Google Ads,New,0.0
+788,2024-06-02,user788@example.com,+79488904480,Google Ads,Qualified,36450.7
+789,2024-05-09,user789@example.com,+79260373065,Google Ads,Qualified,41577.22
+790,2024-02-27,user790@example.com,+79712488335,Direct,Contacted,0.0
+791,2024-05-30,user791@example.com,+79697432898,Google Ads,Contacted,0.0
+792,2024-05-20,user792@example.com,+79854487306,Direct,Qualified,41530.06
+793,2024-07-22,user793@example.com,+79714530179,Direct,Qualified,48162.7
+794,2024-06-12,user794@example.com,+79986158602,Referral,Contacted,0.0
+795,2024-05-05,user795@example.com,+79942450958,Facebook Ads,New,0.0
+796,2024-07-04,user796@example.com,+79345946635,Referral,Contacted,0.0
+797,2024-04-18,user797@example.com,+79281144116,Facebook Ads,Qualified,21211.13
+798,2024-06-18,user798@example.com,+79805720696,Facebook Ads,Contacted,0.0
+799,2024-03-24,user799@example.com,+79375229702,Facebook Ads,Qualified,32078.17
+800,2024-01-13,user800@example.com,+79276817351,Google Ads,New,0.0
+801,2024-03-10,user801@example.com,+79924674275,Direct,Qualified,36848.74
+802,2024-04-19,user802@example.com,+79986746607,Direct,Contacted,0.0
+803,2024-04-01,user803@example.com,+79824972892,Referral,Contacted,0.0
+804,2024-01-12,user804@example.com,+79958019981,Organic Search,Unqualified,0.0
+805,2024-07-25,user805@example.com,+79946026740,Facebook Ads,Contacted,0.0
+806,2024-04-30,user806@example.com,+79364984408,Organic Search,Qualified,36382.98
+807,2024-06-26,user807@example.com,+79222499120,Facebook Ads,Contacted,0.0
+808,2024-05-14,user808@example.com,+79292511784,Facebook Ads,New,0.0
+809,2024-05-01,user809@example.com,+79919778853,Referral,Qualified,17943.61
+810,2024-02-19,user810@example.com,+79518250387,Facebook Ads,Qualified,32248.92
+811,2024-03-04,user811@example.com,+79911612308,Direct,New,0.0
+812,2024-06-01,user812@example.com,+79561145056,Referral,Unqualified,0.0
+813,2024-04-12,user813@example.com,+79851630480,Referral,Unqualified,0.0
+814,2024-04-29,user814@example.com,+79258782572,Organic Search,Unqualified,0.0
+815,2024-01-11,user815@example.com,+79531508530,Direct,New,0.0
+816,2024-05-19,user816@example.com,+79698520224,Organic Search,New,0.0
+817,2024-06-26,user817@example.com,+79565607772,Organic Search,Qualified,46960.83
+818,2024-03-14,user818@example.com,+79626176381,Google Ads,Unqualified,0.0
+819,2024-03-27,user819@example.com,+79142924153,Google Ads,New,0.0
+820,2024-05-08,user820@example.com,+79632153094,Direct,Contacted,0.0
+821,2024-03-27,user821@example.com,+79609577963,Organic Search,Unqualified,0.0
+822,2024-06-29,user822@example.com,+79717081321,Organic Search,Unqualified,0.0
+823,2024-03-03,user823@example.com,+79420012678,Google Ads,Qualified,20755.78
+824,2024-05-24,user824@example.com,+79451711139,Direct,Qualified,43967.57
+825,2024-07-09,user825@example.com,+79243764228,Organic Search,Contacted,0.0
+826,2024-05-14,user826@example.com,+79143638022,Organic Search,New,0.0
+827,2024-02-03,user827@example.com,+79600126614,Google Ads,Unqualified,0.0
+828,2024-06-23,user828@example.com,+79230869350,Direct,Contacted,0.0
+829,2024-04-25,user829@example.com,+79433911946,Google Ads,New,0.0
+830,2024-03-18,user830@example.com,+79694603840,Referral,Contacted,0.0
+831,2024-02-17,user831@example.com,+79934341558,Direct,Qualified,41697.87
+832,2024-03-22,user832@example.com,+79922125062,Organic Search,Unqualified,0.0
+833,2024-04-14,user833@example.com,+79873904508,Direct,Qualified,4511.06
+834,2024-03-12,user834@example.com,+79714868830,Google Ads,Contacted,0.0
+835,2024-03-31,user835@example.com,+79150364552,Referral,New,0.0
+836,2024-04-01,user836@example.com,+79401258531,Organic Search,Contacted,0.0
+837,2024-06-26,user837@example.com,+79143421376,Facebook Ads,Unqualified,0.0
+838,2024-07-22,user838@example.com,+79739971240,Organic Search,New,0.0
+839,2024-04-06,user839@example.com,+79245639986,Facebook Ads,New,0.0
+840,2024-02-05,user840@example.com,+79979274887,Google Ads,Contacted,0.0
+841,2024-02-28,user841@example.com,+79638547943,Facebook Ads,Contacted,0.0
+842,2024-02-18,user842@example.com,+79741857682,Facebook Ads,Unqualified,0.0
+843,2024-03-25,user843@example.com,+79540506358,Direct,Unqualified,0.0
+844,2024-03-12,user844@example.com,+79206937363,Referral,Qualified,30805.25
+845,2024-04-16,user845@example.com,+79349222076,Facebook Ads,Qualified,40003.41
+846,2024-04-06,user846@example.com,+79370634331,Referral,Contacted,0.0
+847,2024-01-29,user847@example.com,+79414538799,Direct,Contacted,0.0
+848,2024-05-13,user848@example.com,+79945705529,Google Ads,New,0.0
+849,2024-01-17,user849@example.com,+79193394329,Referral,Contacted,0.0
+850,2024-03-19,user850@example.com,+79505181208,Referral,Contacted,0.0
+851,2024-02-04,user851@example.com,+79435436700,Direct,Contacted,0.0
+852,2024-05-13,user852@example.com,+79455114757,Facebook Ads,Unqualified,0.0
+853,2024-01-29,user853@example.com,+79503910385,Referral,Contacted,0.0
+854,2024-07-15,user854@example.com,+79900839592,Direct,New,0.0
+855,2024-03-02,user855@example.com,+79203913986,Organic Search,Contacted,0.0
+856,2024-02-28,user856@example.com,+79988679008,Organic Search,Contacted,0.0
+857,2024-01-17,user857@example.com,+79284550412,Referral,Unqualified,0.0
+858,2024-05-05,user858@example.com,+79319485746,Google Ads,Qualified,22011.04
+859,2024-05-28,user859@example.com,+79209780843,Facebook Ads,Contacted,0.0
+860,2024-01-02,user860@example.com,+79802197342,Direct,Unqualified,0.0
+861,2024-05-17,user861@example.com,+79222979638,Organic Search,New,0.0
+862,2024-07-08,user862@example.com,+79623134060,Referral,New,0.0
+863,2024-02-16,user863@example.com,+79914876276,Facebook Ads,New,0.0
+864,2024-05-04,user864@example.com,+79467005968,Facebook Ads,New,0.0
+865,2024-01-28,user865@example.com,+79726055024,Facebook Ads,Contacted,0.0
+866,2024-06-23,user866@example.com,+79406299639,Referral,Contacted,0.0
+867,2024-06-06,user867@example.com,+79317639557,Google Ads,Qualified,35205.47
+868,2024-01-25,user868@example.com,+79707798306,Facebook Ads,New,0.0
+869,2024-01-19,user869@example.com,+79114400430,Organic Search,New,0.0
+870,2024-04-18,user870@example.com,+79664559613,Direct,Qualified,33840.79
+871,2024-06-27,user871@example.com,+79157430266,Facebook Ads,Qualified,27843.75
+872,2024-04-22,user872@example.com,+79793756926,Facebook Ads,Contacted,0.0
+873,2024-04-14,user873@example.com,+79473394156,Organic Search,New,0.0
+874,2024-04-11,user874@example.com,+79728921503,Referral,Contacted,0.0
+875,2024-05-24,user875@example.com,+79300396335,Organic Search,Unqualified,0.0
+876,2024-04-20,user876@example.com,+79461921019,Google Ads,Qualified,35110.06
+877,2024-06-28,user877@example.com,+79151355435,Google Ads,Contacted,0.0
+878,2024-06-04,user878@example.com,+79830159759,Google Ads,New,0.0
+879,2024-01-30,user879@example.com,+79545269982,Facebook Ads,New,0.0
+880,2024-03-13,user880@example.com,+79885690520,Organic Search,Unqualified,0.0
+881,2024-04-25,user881@example.com,+79724903121,Direct,Unqualified,0.0
+882,2024-07-14,user882@example.com,+79724159493,Referral,Qualified,15477.84
+883,2024-04-30,user883@example.com,+79667141878,Direct,Contacted,0.0
+884,2024-01-06,user884@example.com,+79913089578,Facebook Ads,Qualified,5211.26
+885,2024-02-28,user885@example.com,+79217548686,Referral,Unqualified,0.0
+886,2024-02-20,user886@example.com,+79790091792,Direct,Unqualified,0.0
+887,2024-03-02,user887@example.com,+79967800651,Google Ads,Unqualified,0.0
+888,2024-01-11,user888@example.com,+79914748069,Referral,Unqualified,0.0
+889,2024-07-13,user889@example.com,+79354744574,Organic Search,Qualified,14237.49
+890,2024-06-06,user890@example.com,+79337555571,Direct,Qualified,4473.09
+891,2024-04-06,user891@example.com,+79541762560,Facebook Ads,Qualified,16937.72
+892,2024-01-31,user892@example.com,+79838496835,Organic Search,Unqualified,0.0
+893,2024-06-12,user893@example.com,+79542132498,Direct,New,0.0
+894,2024-01-17,user894@example.com,+79814088026,Referral,Unqualified,0.0
+895,2024-04-24,user895@example.com,+79374763089,Google Ads,Unqualified,0.0
+896,2024-03-22,user896@example.com,+79323948810,Google Ads,New,0.0
+897,2024-01-27,user897@example.com,+79316976374,Organic Search,Unqualified,0.0
+898,2024-06-16,user898@example.com,+79609851978,Facebook Ads,New,0.0
+899,2024-01-31,user899@example.com,+79821740501,Direct,Contacted,0.0
+900,2024-01-26,user900@example.com,+79418179385,Google Ads,Qualified,34796.23
+901,2024-02-11,user901@example.com,+79458718781,Facebook Ads,Unqualified,0.0
+902,2024-05-30,user902@example.com,+79776611648,Organic Search,Qualified,32404.06
+903,2024-05-25,user903@example.com,+79113532515,Google Ads,New,0.0
+904,2024-07-20,user904@example.com,+79748389081,Facebook Ads,New,0.0
+905,2024-07-03,user905@example.com,+79267971843,Google Ads,New,0.0
+906,2024-07-25,user906@example.com,+79387846612,Direct,Qualified,4986.8
+907,2024-03-04,user907@example.com,+79423330919,Direct,Unqualified,0.0
+908,2024-06-29,user908@example.com,+79166321967,Direct,Contacted,0.0
+909,2024-01-30,user909@example.com,+79275291740,Direct,Contacted,0.0
+910,2024-07-03,user910@example.com,+79418926289,Facebook Ads,Unqualified,0.0
+911,2024-02-10,user911@example.com,+79508958147,Facebook Ads,Contacted,0.0
+912,2024-01-22,user912@example.com,+79624703536,Organic Search,Qualified,22391.86
+913,2024-05-30,user913@example.com,+79520493028,Google Ads,Unqualified,0.0
+914,2024-05-26,user914@example.com,+79651432398,Google Ads,Qualified,30559.34
+915,2024-03-02,user915@example.com,+79620498418,Direct,Contacted,0.0
+916,2024-03-04,user916@example.com,+79313801738,Google Ads,Qualified,5006.28
+917,2024-03-25,user917@example.com,+79373679024,Google Ads,New,0.0
+918,2024-06-17,user918@example.com,+79156573496,Referral,Unqualified,0.0
+919,2024-03-20,user919@example.com,+79170086182,Google Ads,Qualified,48635.19
+920,2024-06-16,user920@example.com,+79589712409,Google Ads,Unqualified,0.0
+921,2024-03-25,user921@example.com,+79405243307,Direct,Contacted,0.0
+922,2024-01-03,user922@example.com,+79747356743,Direct,Qualified,15013.84
+923,2024-07-21,user923@example.com,+79995103880,Facebook Ads,Qualified,40854.53
+924,2024-03-29,user924@example.com,+79490802220,Referral,Qualified,36570.5
+925,2024-01-29,user925@example.com,+79390289470,Google Ads,Unqualified,0.0
+926,2024-05-23,user926@example.com,+79136943188,Organic Search,Contacted,0.0
+927,2024-06-18,user927@example.com,+79782507908,Facebook Ads,Contacted,0.0
+928,2024-02-28,user928@example.com,+79521130841,Direct,Qualified,14697.42
+929,2024-01-06,user929@example.com,+79570208726,Facebook Ads,Qualified,40645.6
+930,2024-03-03,user930@example.com,+79386776189,Google Ads,New,0.0
+931,2024-03-06,user931@example.com,+79120046905,Referral,Unqualified,0.0
+932,2024-02-05,user932@example.com,+79576888355,Organic Search,New,0.0
+933,2024-07-20,user933@example.com,+79888607268,Referral,Unqualified,0.0
+934,2024-04-16,user934@example.com,+79973909913,Google Ads,Qualified,46862.91
+935,2024-03-21,user935@example.com,+79493191784,Facebook Ads,Qualified,20008.79
+936,2024-03-09,user936@example.com,+79454497847,Facebook Ads,Unqualified,0.0
+937,2024-05-31,user937@example.com,+79337570786,Organic Search,New,0.0
+938,2024-03-11,user938@example.com,+79316762856,Google Ads,Qualified,26982.4
+939,2024-05-23,user939@example.com,+79986678765,Direct,Contacted,0.0
+940,2024-05-11,user940@example.com,+79644077934,Referral,Qualified,40808.13
+941,2024-02-16,user941@example.com,+79370178450,Direct,Qualified,23580.5
+942,2024-04-07,user942@example.com,+79861715673,Facebook Ads,New,0.0
+943,2024-07-25,user943@example.com,+79217464107,Organic Search,Contacted,0.0
+944,2024-02-29,user944@example.com,+79259090712,Google Ads,Contacted,0.0
+945,2024-06-07,user945@example.com,+79928848430,Direct,Contacted,0.0
+946,2024-02-08,user946@example.com,+79446584703,Direct,Unqualified,0.0
+947,2024-03-06,user947@example.com,+79788167986,Organic Search,Qualified,26643.0
+948,2024-05-05,user948@example.com,+79625024827,Organic Search,New,0.0
+949,2024-05-06,user949@example.com,+79158720749,Referral,Unqualified,0.0
+950,2024-01-27,user950@example.com,+79329278218,Direct,Contacted,0.0
+951,2024-06-30,user951@example.com,+79577613949,Google Ads,Qualified,19270.0
+952,2024-01-25,user952@example.com,+79918957836,Google Ads,New,0.0
+953,2024-01-01,user953@example.com,+79488808291,Organic Search,Contacted,0.0
+954,2024-03-01,user954@example.com,+79211931262,Facebook Ads,Qualified,12839.52
+955,2024-01-09,user955@example.com,+79972582180,Organic Search,Qualified,48536.67
+956,2024-05-26,user956@example.com,+79156939676,Google Ads,Qualified,42159.08
+957,2024-06-24,user957@example.com,+79455058724,Facebook Ads,Unqualified,0.0
+958,2024-07-23,user958@example.com,+79868589510,Facebook Ads,Unqualified,0.0
+959,2024-03-07,user959@example.com,+79761222309,Google Ads,Unqualified,0.0
+960,2024-07-16,user960@example.com,+79739676073,Organic Search,Qualified,35768.3
+961,2024-02-24,user961@example.com,+79667134617,Direct,Unqualified,0.0
+962,2024-07-21,user962@example.com,+79845331828,Google Ads,Qualified,31612.09
+963,2024-06-24,user963@example.com,+79183761629,Organic Search,Qualified,23811.65
+964,2024-05-11,user964@example.com,+79775866122,Google Ads,New,0.0
+965,2024-04-11,user965@example.com,+79161010664,Google Ads,Contacted,0.0
+966,2024-05-21,user966@example.com,+79112254396,Direct,Contacted,0.0
+967,2024-04-29,user967@example.com,+79947657134,Organic Search,Unqualified,0.0
+968,2024-07-13,user968@example.com,+79447321475,Direct,Qualified,17786.55
+969,2024-01-26,user969@example.com,+79504210372,Organic Search,Contacted,0.0
+970,2024-01-04,user970@example.com,+79344341396,Facebook Ads,Qualified,36057.91
+971,2024-02-09,user971@example.com,+79186843894,Referral,Unqualified,0.0
+972,2024-04-22,user972@example.com,+79984441380,Referral,Unqualified,0.0
+973,2024-07-11,user973@example.com,+79828595557,Facebook Ads,Unqualified,0.0
+974,2024-01-28,user974@example.com,+79988545900,Referral,Contacted,0.0
+975,2024-04-03,user975@example.com,+79370766530,Direct,Qualified,13629.7
+976,2024-07-01,user976@example.com,+79745324290,Referral,New,0.0
+977,2024-06-16,user977@example.com,+79466686094,Facebook Ads,New,0.0
+978,2024-05-25,user978@example.com,+79937608219,Google Ads,New,0.0
+979,2024-02-05,user979@example.com,+79188538371,Organic Search,Unqualified,0.0
+980,2024-05-12,user980@example.com,+79868907240,Direct,New,0.0
+981,2024-06-18,user981@example.com,+79727257706,Google Ads,Contacted,0.0
+982,2024-06-08,user982@example.com,+79844520790,Organic Search,New,0.0
+983,2024-02-17,user983@example.com,+79523496422,Google Ads,New,0.0
+984,2024-04-06,user984@example.com,+79886510187,Google Ads,Unqualified,0.0
+985,2024-01-15,user985@example.com,+79643852427,Organic Search,New,0.0
+986,2024-03-03,user986@example.com,+79452930639,Referral,Qualified,23615.01
+987,2024-02-12,user987@example.com,+79513608503,Facebook Ads,Contacted,0.0
+988,2024-02-07,user988@example.com,+79930072560,Facebook Ads,Contacted,0.0
+989,2024-04-05,user989@example.com,+79291362120,Google Ads,Unqualified,0.0
+990,2024-06-07,user990@example.com,+79942816622,Organic Search,Contacted,0.0
+991,2024-07-14,user991@example.com,+79443345508,Referral,New,0.0
+992,2024-05-10,user992@example.com,+79899035236,Referral,Contacted,0.0
+993,2024-05-04,user993@example.com,+79772305218,Referral,Unqualified,0.0
+994,2024-02-03,user994@example.com,+79447657742,Referral,New,0.0
+995,2024-01-30,user995@example.com,+79905365430,Google Ads,Qualified,31714.92
+996,2024-01-12,user996@example.com,+79620085432,Organic Search,Qualified,2534.44
+997,2024-06-12,user997@example.com,+79168748224,Google Ads,New,0.0
+998,2024-05-02,user998@example.com,+79583991863,Organic Search,Qualified,12537.18
+999,2024-02-13,user999@example.com,+79658929698,Referral,Unqualified,0.0
+1000,2024-06-14,user1000@example.com,+79861252156,Direct,Qualified,2259.71
